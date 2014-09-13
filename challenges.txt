@@ -4,3 +4,4 @@ ID;NAME
 03;Challenge;Maecenas sed diam eget risus varius blandit sit amet non magna.
 04;noch eine Challenge;Nullam quis risus eget urna mollis ornare vel eu leo..
 05;eine ganze lange Challenge;Maecenas sed diam eget risus varius blandit sit amet non magna.
+06;Noch eine ganze lange Challenge;Maecenas sed diam eget risus varius blandit sit amet non magna.
